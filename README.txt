@@ -1,6 +1,6 @@
 ARDUINO-UNO-DIMENSIONS (c) 2024 Yves Bouchard
 
-ARDUINO-UNO-DIMENSIONS is licensed under a
+ARDUINO-UNO-DIMENSIONS is licensed under
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 
 You should have access to a copy of the license along with this
